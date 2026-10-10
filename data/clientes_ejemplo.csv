@@ -1,0 +1,8 @@
+id,nombre,ciudad,operador,plan,estado
+1,Ana Torres,Lima,Movistar,Fibra 300 Mbps,Activo
+2,Luis Quispe,Arequipa,Claro,Móvil 20 GB,Pendiente
+3,María Gómez,Lima,Movistar,Móvil 50 GB,Activo
+4,José Ramírez,Cusco,Entel,Móvil 10 GB,Cancelado
+5,Lucía Fernández,Trujillo,Movistar,Fibra 500 Mbps,Activo
+6,Carlos Medina,Lima,Bitel,Móvil 30 GB,Pendiente
+7,Andrea Salas,Piura,Claro,Fibra 200 Mbps,Activo
